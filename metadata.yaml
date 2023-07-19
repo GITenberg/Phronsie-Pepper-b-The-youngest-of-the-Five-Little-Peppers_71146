@@ -1,0 +1,40 @@
+_repo: Phronsie-Pepper-b-The-youngest-of-the-Five-Little-Peppers_71146
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Walcott, Jessie McDermott
+    aliases:
+    - McDermott, Jessie
+    - M'Dermot, Jessie
+    birthdate: 1857
+    deathdate: 1907
+    gutenberg_agent_id: '45354'
+    url: http://www.gutenberg.org/2009/agents/45354
+creator:
+  author:
+    agent_name: Sidney, Margaret
+    alias: Sydney, Margaret
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '307'
+    url: http://www.gutenberg.org/2009/agents/307
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Sidney
+description: ''
+gutenberg_issued: '2023-07-08'
+identifiers:
+  gutenberg: '71146'
+language: en
+pgterms:marc905: 20150509104850sidney
+pgterms:marc906: '1897'
+pgterms:marc907: US
+production_note: Donald Cummings, David E. Brown, Sue Clark, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bLothrop, Lee & Shepard Co., $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Phronsie Pepper : $b The youngest of the "Five Little Peppers"'
+url: http://www.gutenberg.org/ebooks/71146
