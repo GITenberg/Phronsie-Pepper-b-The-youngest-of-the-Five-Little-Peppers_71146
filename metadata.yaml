@@ -10,6 +10,9 @@ contributor:
     deathdate: 1907
     gutenberg_agent_id: '45354'
     url: http://www.gutenberg.org/2009/agents/45354
+covers:
+- cover_type: archival
+  image_path: 71146-h/images/cover.jpg
 creator:
   author:
     agent_name: Sidney, Margaret
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/307
     wikipedia: https://en.wikipedia.org/wiki/Margaret_Sidney
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71146#Phronsie-Pepper-b-The-youngest-of-the-Five-Little-Peppers
 gutenberg_issued: '2023-07-08'
 identifiers:
   gutenberg: '71146'
